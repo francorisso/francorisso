@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Zalando
+- 🌱 I’m currently learning Software Architecture
+- 😄 Pronouns: He/Him
+
 <!--
 **francorisso/francorisso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
