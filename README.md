@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Zalando
+- 🔭 I’m currently working on Meta
 - 🌱 I’m currently learning Software Architecture
 - 😄 Pronouns: He/Him
 
