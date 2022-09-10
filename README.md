@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Meta
-- 🌱 I’m currently learning Software Architecture
+- 🔭 I’m currently working at Meta
+- 🌱 I’m currently learning Unity 
 - 😄 Pronouns: He/Him
 
 <!--
